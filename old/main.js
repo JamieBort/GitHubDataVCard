@@ -1,5 +1,4 @@
-// using CSS selectors to assign the #apiInfo attribute to the variable 'container'.
-let container = document.querySelector('#apiInfo');
+// let container = document.querySelector('#apiInfo'); // Using CSS selectors to assign the #apiInfo attribute to the variable 'container'. // commented out temporarily. Apparently this is not needed.
 
 let request = new XMLHttpRequest();
 request.addEventListener("load", displayGitHubInfo);
