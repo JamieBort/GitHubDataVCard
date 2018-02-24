@@ -1,3 +1,4 @@
+// using CSS selectors to assign the #apiInfo attribute to the variable 'container'.
 let container = document.querySelector('#apiInfo');
 
 let request = new XMLHttpRequest();
