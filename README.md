@@ -19,6 +19,6 @@ Once you have a decent grasp on that, start setting up your Ajax calls and setti
 You'll likely want to use Template Literals to get all of your data on the page.
 
 ## Resources  
-* [Full Screen Mockup}(https://tiy-learn-content.s3.amazonaws.com/9f221821-github-portfolio.png)
+* [Full Screen Mockup](https://tiy-learn-content.s3.amazonaws.com/9f221821-github-portfolio.png)
 * [GitHub User API - change username](https://api.github.com/users/username)
-* {GitHub API Docs](https://developer.github.com/)
+* [GitHub API Docs](https://developer.github.com/)
