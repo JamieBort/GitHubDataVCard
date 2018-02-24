@@ -19,22 +19,6 @@ Once you have a decent grasp on that, start setting up your Ajax calls and setti
 You'll likely want to use Template Literals to get all of your data on the page.
 
 ## Resources  
-* Full Screen Mockup
-* GitHub User API - change username
-* GitHub API Docs
-
-
-
-
-
-
-
-**Activity: GitHub Slim VCard - Pair Programming**
-
-In this activity, you'll work with a partner to recreate the GitHub Data VCard assignment from last night.
-
-Pick one of your projects and replace the XMLHttpRequest with the fetch API.
-
-**Bonus**
-
-If you have some extra time, continue playing with the [GitHub API}(https://developer.github.com/v3/) and see what other endpoints you can access without authentication.
+* [Full Screen Mockup}(https://tiy-learn-content.s3.amazonaws.com/9f221821-github-portfolio.png)
+* [GitHub User API - change username](https://api.github.com/users/username)
+* {GitHub API Docs](https://developer.github.com/)
