@@ -9,7 +9,7 @@ As you are finishing the front-end fundamentals course, let's put together what 
 * Everything but the headers ("The Basics", "The Story") and the bio will be pulled in via GitHub's API. If it's not there on your GitHub profile, then add it.
 * Make sure to pull your avatar in with GitHub and make it a circle.
 
-![image](./images/9f221821-github-portfolio.png)
+![Mockup](./images/9f221821-github-portfolio.png)
 
 ## Hints  
 Since there are no starter files provided, you'll need to create your own HTML, CSS and JavaScript file and link them together properly. Before you start writing any JavaScript, we suggest you spend a few moments reading through the GitHub API docs listed below to get familiar with how you can obtain the data.
