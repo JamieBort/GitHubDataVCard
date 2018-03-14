@@ -11,4 +11,7 @@ function displayGitHubInfo() {
   document.getElementById('company').innerHTML=`Company: ` + data.company;
   document.getElementById('blog').innerHTML=`Website: ` + data.blog;
   document.getElementById('bio').innerHTML=data.bio;
-}
+  var pic = document.getElementById('pic')
+  pic.setAttribute("src", data.avatar_url);
+  console.log("Here is the data:", data);
+};
